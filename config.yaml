@@ -1,0 +1,6 @@
+---
+BaseURL: "http://localhost:1313"
+metaDataFormat: "yaml"
+title: "test site"
+theme: "test-theme"
+---
